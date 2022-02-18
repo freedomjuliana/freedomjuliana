@@ -29,5 +29,5 @@
   <a href="mailto:jujubratz27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juliana-morais-5a1a47184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/freedomjuliana/)
+  ![Snake animation](https://github.com/freedomjuliana/freedomjuliana/dist/github-contribution-grid-snake.svg)
 </dev>
