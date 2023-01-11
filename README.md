@@ -1,9 +1,8 @@
 <h1>Olá! Eu sou a Juliana Morais.</h1>
 
-- 🔭 Hoje sou estagiária de TI na ANAPRO (OLX Brazil)
-- 🌱 Atualmente, estou estudando WordPress/Elementor
-- 💬 Pode me chamar para fazer networking
-- 📫 Caso queira entrar em contato, mande um e-mail em: jujubratz27@gmail.com
+- 💻 Atualmente, estou estudando JavaScript.
+- 💬 Pode me chamar para fazer networking.
+- 📫 Caso queira entrar em contato, mande um e-mail para: jujubratz27@gmail.com.
 
 <div align="center">
   <a href="https://github.com/freedomjuliana">
