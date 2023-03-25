@@ -1,5 +1,6 @@
 <h1>Olá! Eu sou a Juliana Morais.</h1>
 
+- 🎓Sou bachareal em Ciência da Computação.
 - 💻 Atualmente, estou estudando para ser Dev Full Stack.
 - 💬 Pode me chamar para fazer networking.
 - 📫 Caso queira entrar em contato, mande um e-mail para: jujubratz27@gmail.com.
