@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou a Juliana Morais.</h1>
+<h1>Olá! Meu nome é Juliana Morais.</h1>
 
 - 🎓 Sou bacharela em Ciência da Computação.
 - 💻 Atualmente, estou estudando para ser Dev Full Stack.
