@@ -3,7 +3,7 @@
 - 🎓 Sou bacharela em Ciência da Computação.
 - 💻 Atualmente, estou estudando para ser Dev Full Stack.
 - 💬 Fique à vontade em chamar para fazer networking.
-- 📫 Caso queira entrar em contato, mande um e-mail para: jujubratz27@gmail.com.
+- 📫 Caso queira entrar em contato, mande um e-mail para: julianadev.contato@gmail.com.
 
 <div align="center">
   <a href="https://github.com/freedomjuliana">
