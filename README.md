@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=rose&right_color=blue" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=pink&right_color=blue" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CD5&background=FFFFFF00&width=435&lines=Hello%2C+I'm+Juliana+Morais!;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
