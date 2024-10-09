@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedomjuliana.visitor-badge&left_color=pink&right_color=light_sky_blue" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CD5&background=FFFFFF00&width=435&lines=Hello%2C+I'm+Juliana+Morais!;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F691F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Juliana+Morais!+%F0%9F%91%BE;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate full stack developer from 🇧🇷</h3>
