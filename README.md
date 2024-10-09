@@ -17,8 +17,6 @@
  🌱 I'm currently improving in **TypeScript, React, Next.js, Tailwind, Python**
 
  😺 Fun fact: **I love cats 💜**
- 
- 💬 You can contact me at **[Gmail](julianadev.contato@gmail.com)**
 
  </div>
  
