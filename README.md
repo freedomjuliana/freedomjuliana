@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **e-commerce of computer and gamer products**~~
  
- 🌱 I'm currently improving in **TypeScript, React, Next.js, Tailwind, Python**
+ 🌱 I'm currently improving in **TypeScript, React, Next.js, Tailwind, Python**~~
 
  😺 Fun fact: **I love cats 💜**
 
