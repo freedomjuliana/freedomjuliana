@@ -1,27 +1,72 @@
-<h1>Olá! Meu nome é Juliana Morais.</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=freedomjuliana.visitor-badge" />
 
-- 🎓 Sou bacharela em Ciência da Computação.
-- 💻 Atualmente, estou estudando para ser Dev Full Stack.
-- 💬 Fique à vontade em chamar para fazer networking.
-- 📫 Caso queira entrar em contato, mande um e-mail para: julianadev.contato@gmail.com.
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78CD5&background=FFFFFF00&width=435&lines=Hello%2C+I'm+Juliana+Morais!;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate full stack developer from 🇧🇷</h3>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/freedomjuliana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freedomjuliana&show_icons=truee&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedomjuliana&layout=compact&langs_count=7&theme=bear"/>
+    
+ 🎓 I have a degree in Computer Science~~
+ 
+ 🔭 I’m currently working on **e-commerce of computer and gamer products**~~
+ 
+ 🌱 I'm currently improving in **TypeScript, React, Next.js, Tailwind, Python**
+
+ 😺 Fun fact: **I love cats 💜**
+ 
+ 💬 You can contact me at **[Gmail](julianadev.contato@gmail.com)**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:julianadev.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/juliana-morais-5a1a47184/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Juli-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Juli-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Juli-Js" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <hr/>
+ 
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind,vscode,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,nextjs,mysql,npm,yarn" /><br>
 </div>
 
-##
+<br/>
+<hr/>
 
-<div>
-  <a href="https://www.instagram.com/freedm1lkyu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juliana-morais-5a1a47184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/freedomjuliana/freedomjuliana/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  - uses: Platane/snk@v3
+    with:
+    freedomjuliana: ${{ github.freedomjuliana }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+  
+  <br/><br/><br/>
 </div>
+
+<hr/>
+
+<h2 align="center">👾 Stats 👾</h2>
+<br>
+<div align=center>
+    <img height="180em" src="https://streak-stats.demolab.com/?user=freedomjuliana&theme=bear"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freedomjuliana&show_icons=truee&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br/>
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedomjuliana&layout=compact&langs_count=7&theme=bear"/>
+</div>
+
+<br/>
